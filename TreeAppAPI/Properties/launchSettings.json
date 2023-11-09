@@ -1,0 +1,33 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:8092",
+      "sslPort": 44341
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "windowsAuthentication": false,
+      "anonymousAuthentication": true,
+      "launchBrowser": true,
+      "launchUrl": "api/home/test",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "TreeAppAPIv1": {
+      "commandName": "Project",
+      "windowsAuthentication": false,
+      "anonymousAuthentication": true,
+      "launchBrowser": true,
+      "launchUrl": "api/home/test",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

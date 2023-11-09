@@ -1,0 +1,7 @@
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\ERecruitAPI.exe
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\appsettings.json
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\ERecruitAPI.dll
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\ERecruitAPI.deps.json
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\ERecruitAPI.runtimeconfig.json
+D:\Sys\MyAPIs\ERecruitAPI\ERecruitAPI\bin\Debug\netcoreapp3.1\publish\ERecruitAPI.pdb

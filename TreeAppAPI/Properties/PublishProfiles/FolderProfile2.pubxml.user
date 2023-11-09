@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Sys\MyAPIs\TreeAppAPIv1\Release</_PublishTargetUrl>
+    <History>True|2023-11-07T08:42:28.2588136Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=SANG_DEV%3bDatabase=School_Tree_Planting_Monitoring_System%3bUser Id=sa%3bPassword=P%40ssw0rd%3bTrusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
